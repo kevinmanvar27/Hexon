@@ -1,0 +1,30 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Font Awesome
+@import '@fortawesome/fontawesome-free/scss/fontawesome';
+@import '@fortawesome/fontawesome-free/scss/regular';
+@import '@fortawesome/fontawesome-free/scss/solid';
+@import '@fortawesome/fontawesome-free/scss/brands';
+
+// AdminLTE
+@import 'admin-lte/dist/css/adminlte.css';
+
+// Plugins
+@import 'daterangepicker/daterangepicker.css';
+@import 'tempusdominus-bootstrap-4/tempusdominus-bootstrap-4.min.css';
+@import 'select2/dist/css/select2.min.css';
+@import 'select2-bootstrap4-theme/src/select2-bootstrap4.css';
+@import 'chart.js/dist/Chart.min.css';
+@import 'summernote/dist/summernote-bs4.css';
+@import 'dropzone/dist/dropzone.css';
+@import 'datatables.net-bs4/css/dataTables.bootstrap4.min.css';
+
+// Ionicons
+@import 'ionicons/scss/ionicons';
