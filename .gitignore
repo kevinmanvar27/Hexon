@@ -34,7 +34,6 @@ Thumbs.db
 *.sqlite3
 
 # Artifacts #
-/node_modules/
 /public/build/
 /public/hot
 /storage/framework/cache/data/*
