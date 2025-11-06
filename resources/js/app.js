@@ -22,5 +22,3 @@ import 'bs-stepper';
 
 // Import DataTables
 import 'datatables.net-bs4';
-
-import 'jquery-sparkline';
